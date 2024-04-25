@@ -3,4 +3,4 @@ These are a collection of tracks that I have remade from someone else and/or cre
 Play Polytrack by kodub here: https://kodub.itch.io/polytrack
 
 Credits:
-- "Amethyst Skyscraper - Easy": @TiniTheBagel's "Amethyst Skyscraper" (https://github.com/TiniTheBagel/polytrack-import-codes/blob/main/Amethyst%20Skyscraper)
+- "Amethyst Skyscraper - Easy" (all versions): @TiniTheBagel's "Amethyst Skyscraper" (https://github.com/TiniTheBagel/polytrack-import-codes/blob/main/Amethyst%20Skyscraper)
